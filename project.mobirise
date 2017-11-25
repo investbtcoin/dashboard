@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "day5",
+    "currentPage": "day2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -84,8 +84,8 @@
               "size": 250
             }
           },
-          "title": "Invest Your Bitcoin",
-          "text": "Once you register, you will be awarded with $10 worth of bitcoin and it start growing from the day you registered on 2% daily interest for 10 days, you can be able to withdraw on the 10th day which only your total interest will be released for you and your main bonus will be used to recycle your account.<br><br><b>HOW TO EANR MORE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br>You can earn more by funding your account with more bitcoin of which it grows on 5% interest daily unlike your awarded bonus and you can be able to withdraw all your credited bitcoin both the interest on the 10th day then you can deside to reinvest.<br> <br><b>MORE WAY TO EARN &nbsp; </b><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><b><br></b>You gain $5 on every person you invite to the platform and 10% of each of their credited fund(the money they credited from their wallet not their awarded bonus).<br><b> NOTE: referral bonus does not grow but you can be able to withdraw &nbsp;all after 10 days time<br></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+          "title": "Invest Your Bitcoin<br><span style=\"font-weight: normal;\">What is new?: You can now make withdrawal after 5days</span>",
+          "text": "Once you register, you will be awarded with $10 worth of bitcoin and it start growing from the day you registered on 2% daily interest for 5 days, you can be able to withdraw on the 5th day which only your total interest will be released for you and your main bonus will be used to recycle your account.<br><br><b>HOW TO EANR MORE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br>You can earn more by funding your account with more bitcoin of which it grows on 5% interest daily unlike your awarded bonus and you can be able to withdraw all your credited bitcoin both the interest on the 5th day then you can deside to reinvest.<br> <br><b>MORE WAY TO EARN &nbsp; </b><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><b><br></b>You gain $5 on every person you invite to the platform and 10% of each of their credited fund(the money they credited from their wallet not their awarded bonus).<br><b> NOTE: referral bonus does not grow but you can be able to withdraw &nbsp;all after 5 days time<br></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://investbtcoin.yn.lt/register\" data-toolbar=\"-mbrBtnMove\">Register</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Login</a>"
         },
         {
@@ -786,7 +786,7 @@
             "showButtons": true
           },
           "title": "opps!",
-          "text": "Soy you can not make withdrawal until the 10th day of your investment",
+          "text": "Soy you can not make withdrawal until the 5th day of your investment",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://investbtcoin.github.io/home/Home\" data-toolbar=\"-mbrBtnMove\">Back Home</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
