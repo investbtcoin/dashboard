@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "day2",
+    "currentPage": "day4",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -540,7 +540,7 @@
             "showButtons": true
           },
           "title": "UPLOAD SUCCESSFUL!",
-          "text": "We are processing you payment, kidly wait while we credit you account.<br>NOTE: If your account is not credited after one hour contact us: investbtcoin@gmail.com<br>",
+          "text": "We are processing you payment, knidly wait while we credit you account.<br>NOTE: If your account is not credited after one hour contact us: investbtcoin@gmail.com<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://investbtcoin.github.io/home/Home\" data-toolbar=\"-mbrBtnMove\">Back Home</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
@@ -1156,7 +1156,7 @@
           },
           "title": "WELCOME!",
           "text": "<b>NOTE:</b> Your interest grows every 12:00 GMT.<br>To credit your account with more bitcoin click on INVEST MORE",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Day: two<br>Interest: $8<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc:00.00<br>Day: 0<br>Interest: 00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:00.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/cash/withdraw\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Day: four<br>Interest: $8<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc:00.00<br>Day: 0<br>Interest: 00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:00.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/cash/withdraw\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
     },
@@ -1279,7 +1279,7 @@
           },
           "title": "WELCOME!",
           "text": "<b>NOTE:</b> Your interest grows every 12:00 GMT.<br>To credit your account with more bitcoin click on INVEST MORE",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Day: two<br>Interest: $10<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc:00.00<br>Day: 0<br>Interest: 00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:00.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/cash/withdraw\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Day: five<br>Interest: $10<br>Available withdrawal:$10<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc:00.00<br>Day: 0<br>Interest: 00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:00.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/cash/withdraw\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
     }
