@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "ten.com",
+    "currentPage": "tenpay",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3774,7 +3774,7 @@
         }
       ]
     },
-    "ten.com": {
+    "tenpay": {
       "settings": {
         "title": "invest btc",
         "meta_descr": "we help invest your bitcoin by minning...."
