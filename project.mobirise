@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "error2",
+    "currentPage": "withdraw",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -786,7 +786,7 @@
             "showButtons": true
           },
           "title": "opps!",
-          "text": "Soy you can not make withdrawal until the 5th day of your investment",
+          "text": "Sorry you can not make withdrawal until the 5th day of your investment",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://investbtcoin.github.io/home/Home\" data-toolbar=\"-mbrBtnMove\">Back Home</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
