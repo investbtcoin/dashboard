@@ -3004,7 +3004,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "WELCOME!",
+          "title": "WELCOME!<div>PROMO!</div><div>Invest $5000 and above and get $1000 awarded bonus,</div><div>Invest $2000 and above and get $500 awarded bonus,</div><div>Invest $1000 and above and get $100 awarded bonus,</div><div>Invest below $1000 and get $10 awarded bonus.offer last till 30th December</div>",
           "text": "<b>NOTE:</b> Your interest grows every 00:00 GMT.<br>To credit your account with more bitcoin click on INVEST MORE<br>NOTE: You cannot withdraw your Registration bonus if you dont credit your account",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Interest: 0.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc:$110.00<br>Day:one<br>Interest: $22.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:00.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/pay/amount\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
