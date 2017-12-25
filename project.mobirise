@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "amaka2",
+    "currentPage": "wait",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -5008,7 +5008,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Update!",
+          "title": "Merry xmas!",
           "text": "We are sorry for the delay in payments, most of our workers are on december break so there is slow confirmation in our system so we plead for your patience for you will be paid before 24 hours.<br>please kindly comfirm payment once you receive.<br>NOTE: Incase you dont get paid after 24 hours write to our support service<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://investbtcoin.github.io/home/Home\" data-toolbar=\"-mbrBtnMove\">Back Home</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/comfirm\" data-toolbar=\"-mbrBtnMove\">Comfirm payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://investbtcoin.yn.lt/support\" data-toolbar=\"-mbrBtnMove\">write to Support</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
