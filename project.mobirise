@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": "1thousand2",
+    "currentPage": "5hundred2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -6240,7 +6240,7 @@
           },
           "title": "Merry Xmas!<br>",
           "text": "NOTE: Your interest grows every 00:00 GMT.<br>To credit your account with more bitcoin click on INVEST MORE<br>NOTE: You cannot withdraw your Registration bonus if you dont credit your account",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Interest: 0.00<br>Available on 2nd investment<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc: $500<br>Interest: $500<br>Available withdrawal: $1000<br>Time: after: Complete<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:$0.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/pay/amount\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Awarded bonus:$10<br>Interest: 0.00<br>Available on 2nd investment<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Credited Btc: $500<br>Interest: $500<br>Available withdrawal: $1000<br>Time: Complete<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Referral:$0.00<br>Day: 0<br>Username:<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\" https://investbtcoin.github.io/pay/invest\" data-toolbar=\"-mbrBtnMove\">INVEST MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://investbtcoin.github.io/pay/amount\" data-toolbar=\"-mbrBtnMove\">Withdraw</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://investbtcoin.yn.lt/index\" data-toolbar=\"-mbrBtnMove\">Logout</a>"
         }
       ]
     },
